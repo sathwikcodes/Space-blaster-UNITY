@@ -1,0 +1,513 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1678643716400292, "dur":1152, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716401446, "dur":30, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1678643716401491, "dur":9, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1678643716401500, "dur":583, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1678643716402119, "dur":446, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716402565, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716506681, "dur":531, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507212, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507220, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507224, "dur":23, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507247, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507248, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507254, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507256, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507262, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507264, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507268, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507270, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507274, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507275, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507280, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507282, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507286, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507287, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507292, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507293, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507297, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507299, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507304, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507305, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507309, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507311, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507316, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507317, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507321, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507323, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507328, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507329, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507333, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507349, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716507370, "dur":2310, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1678643716402469, "dur":144, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678643716402613, "dur":5912, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678643716408552, "dur":643, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1678643716409197, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678643716413458, "dur":10030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1678643716423563, "dur":34198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678643716457810, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678643716457898, "dur":12428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678643716470399, "dur":36305, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678643716402918, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678643716402919, "dur":5679, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678643716408602, "dur":13017, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1678643716421622, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678643716421635, "dur":5335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1678643716427036, "dur":222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678643716427261, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678643716427491, "dur":3612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678643716431168, "dur":320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678643716431491, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678643716431497, "dur":3239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678643716434788, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678643716434949, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678643716434953, "dur":3084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678643716438107, "dur":298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678643716438408, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678643716438414, "dur":4543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678643716443008, "dur":1667, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678643716444678, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678643716444683, "dur":3927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678643716448681, "dur":415, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678643716449098, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678643716449103, "dur":3804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678643716452989, "dur":304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678643716453295, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678643716453301, "dur":3071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678643716456442, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1678643716456512, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678643716456518, "dur":3029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1678643716459686, "dur":272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1678643716459961, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678643716459966, "dur":1951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1678643716462053, "dur":44642, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678643716402303, "dur":273, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678643716402578, "dur":5942, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678643716408553, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1678643716408561, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678643716411042, "dur":751, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1678643716411796, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1678643716411889, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678643716412287, "dur":2794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1678643716415083, "dur":6208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1678643716421294, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678643716421301, "dur":4870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1678643716426222, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678643716426421, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678643716427207, "dur":1855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678643716429114, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678643716429342, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678643716429349, "dur":3439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678643716432917, "dur":243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678643716433162, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678643716433168, "dur":3055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678643716436274, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678643716436474, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678643716436479, "dur":3366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678643716439902, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678643716440076, "dur":18, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678643716440101, "dur":4691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678643716444865, "dur":415, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678643716445282, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678643716445286, "dur":3381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678643716448729, "dur":501, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678643716449232, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678643716449236, "dur":3698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678643716453014, "dur":9170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678643716462186, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678643716462195, "dur":8378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678643716470623, "dur":36068, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678643716402420, "dur":163, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678643716402583, "dur":5941, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678643716408552, "dur":12772, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1678643716421327, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678643716421342, "dur":5106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1678643716426515, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678643716426711, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678643716427298, "dur":3269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678643716430621, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678643716430806, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678643716430810, "dur":2481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678643716433344, "dur":394, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678643716433740, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678643716433744, "dur":3965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678643716437776, "dur":320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678643716438098, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678643716438102, "dur":3679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678643716441843, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678643716442016, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678643716442021, "dur":2739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678643716444810, "dur":364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678643716445177, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678643716445182, "dur":3008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678643716448234, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678643716448422, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678643716448428, "dur":3467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678643716451941, "dur":1651, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678643716453595, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678643716453601, "dur":3654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678643716457355, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1678643716457428, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678643716457433, "dur":3336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1678643716460895, "dur":45982, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678643716402580, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678643716402581, "dur":5969, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678643716408553, "dur":298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1678643716408854, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678643716414017, "dur":10029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1678643716424134, "dur":72708, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678643716496846, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678643716496853, "dur":9488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678643716506510, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":5, "ts":1678643716506513, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678643716402664, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678643716402664, "dur":5859, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678643716408553, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1678643716408726, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678643716413714, "dur":8791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1678643716422567, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1678643716422747, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678643716422752, "dur":4494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1678643716427317, "dur":382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678643716427703, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678643716427709, "dur":4009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678643716431763, "dur":1479, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678643716433245, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678643716433251, "dur":4420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678643716437736, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678643716437919, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678643716437923, "dur":4153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678643716442139, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678643716442349, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678643716442354, "dur":2919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678643716445374, "dur":279, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678643716445656, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678643716445661, "dur":3169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678643716448875, "dur":266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678643716449144, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678643716449148, "dur":3399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678643716452603, "dur":298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678643716452904, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678643716452910, "dur":2600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678643716455567, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":6, "ts":1678643716455626, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678643716455631, "dur":2431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":6, "ts":1678643716458131, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1678643716458205, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678643716458211, "dur":3040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1678643716461380, "dur":45415, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678643716402820, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678643716402820, "dur":5802, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678643716408623, "dur":12982, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1678643716421608, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678643716421620, "dur":5313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1678643716426999, "dur":234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678643716427241, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678643716427445, "dur":3685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678643716431213, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678643716431473, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678643716431480, "dur":2594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678643716434122, "dur":312, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678643716434436, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678643716434440, "dur":3656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678643716438186, "dur":270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678643716438459, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678643716438464, "dur":4041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678643716442564, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678643716442757, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678643716442763, "dur":2978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678643716445805, "dur":598, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678643716446406, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678643716446412, "dur":4015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678643716450495, "dur":236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678643716450744, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678643716450750, "dur":3038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678643716453863, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":7, "ts":1678643716453935, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678643716453941, "dur":3507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":7, "ts":1678643716457514, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1678643716457585, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678643716457592, "dur":2728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1678643716460396, "dur":46453, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678643716402881, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678643716402882, "dur":5639, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678643716408552, "dur":12826, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1678643716421381, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678643716422619, "dur":4064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1678643716426727, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678643716426911, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678643716427306, "dur":3331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678643716430688, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678643716430863, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678643716430869, "dur":2954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678643716433893, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678643716434087, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678643716434091, "dur":3850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678643716438038, "dur":346, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678643716438388, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678643716438393, "dur":4292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678643716442747, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678643716442953, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678643716442960, "dur":2802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678643716445811, "dur":803, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678643716446618, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678643716446624, "dur":3785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678643716450473, "dur":298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678643716450774, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678643716450780, "dur":2939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678643716453787, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1678643716453856, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678643716453925, "dur":2500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1678643716456486, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1678643716456691, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678643716456697, "dur":3722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1678643716460527, "dur":46339, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678643716402961, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678643716402961, "dur":5599, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678643716408561, "dur":619, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1678643716409183, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678643716413207, "dur":9773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1678643716423069, "dur":3769, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678643716426840, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678643716427158, "dur":1434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678643716428651, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678643716428838, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678643716428843, "dur":3336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678643716432274, "dur":558, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678643716432835, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678643716432840, "dur":3346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678643716436234, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678643716436414, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678643716436419, "dur":3091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678643716439608, "dur":369, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678643716439979, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678643716439985, "dur":4378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678643716444419, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678643716444661, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678643716444667, "dur":2380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678643716447120, "dur":338, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678643716447460, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678643716447465, "dur":3740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678643716451267, "dur":3829, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678643716455099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1678643716455105, "dur":5623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1678643716461046, "dur":45765, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678643716403001, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678643716403002, "dur":5607, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678643716408614, "dur":12258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1678643716420875, "dur":24, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678643716421164, "dur":4953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1678643716426168, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678643716426443, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678643716427292, "dur":3331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678643716430698, "dur":211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678643716430912, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678643716430918, "dur":2604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678643716433586, "dur":242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678643716433831, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678643716433835, "dur":3911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678643716437809, "dur":319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678643716438130, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678643716438149, "dur":3950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678643716442161, "dur":339, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678643716442503, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678643716442510, "dur":2740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678643716445336, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678643716445609, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678643716445615, "dur":3056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678643716448746, "dur":1130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678643716449879, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678643716449885, "dur":3260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678643716453213, "dur":521, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678643716453737, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678643716453743, "dur":3039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1678643716456942, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/level1.resS" }}
+,{ "pid":12345, "tid":10, "ts":1678643716457024, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1678643716457030, "dur":2688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/level1.resS" }}
+,{ "pid":12345, "tid":10, "ts":1678643716459788, "dur":46890, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678643716403036, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678643716403036, "dur":5518, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678643716408554, "dur":12956, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1678643716421513, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678643716421535, "dur":4781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1678643716426367, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678643716426554, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678643716427287, "dur":2515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678643716429863, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678643716430066, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678643716430071, "dur":2876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678643716433008, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678643716433213, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678643716433233, "dur":3681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678643716436981, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678643716437200, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678643716437204, "dur":2829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678643716440098, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678643716440262, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678643716440266, "dur":4355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678643716444689, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678643716444874, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678643716444878, "dur":2904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678643716447834, "dur":3751, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678643716451588, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678643716451594, "dur":5221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1678643716456883, "dur":315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":11, "ts":1678643716457201, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1678643716457207, "dur":2903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":11, "ts":1678643716460191, "dur":46483, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678643716403073, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678643716403074, "dur":5513, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678643716408591, "dur":1233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1678643716409827, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678643716413185, "dur":9093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1678643716422375, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":12, "ts":1678643716422541, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678643716422567, "dur":4553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":12, "ts":1678643716427186, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678643716427392, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678643716427527, "dur":3620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678643716431216, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678643716431450, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678643716431455, "dur":3751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678643716435270, "dur":448, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678643716435721, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678643716435727, "dur":3569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678643716439344, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678643716439527, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678643716439533, "dur":3839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678643716443439, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678643716443651, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678643716443656, "dur":2622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678643716446361, "dur":330, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678643716446694, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678643716446699, "dur":4231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678643716450993, "dur":799, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678643716451795, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678643716451801, "dur":2600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":12, "ts":1678643716454453, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":12, "ts":1678643716454504, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678643716454507, "dur":4456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":12, "ts":1678643716459070, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":12, "ts":1678643716459125, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1678643716459139, "dur":2372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":12, "ts":1678643716461881, "dur":44943, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678643716403156, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678643716403156, "dur":5370, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678643716408553, "dur":12850, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1678643716421406, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678643716421420, "dur":5116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1678643716426601, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678643716426776, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678643716427346, "dur":4038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678643716431448, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678643716431657, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678643716431662, "dur":3528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678643716435260, "dur":451, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678643716435714, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678643716435721, "dur":3599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678643716439386, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678643716439585, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678643716439591, "dur":4201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678643716443853, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678643716444026, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678643716444032, "dur":2426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678643716446516, "dur":646, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678643716447164, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678643716447168, "dur":4257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678643716451489, "dur":2906, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678643716454397, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1678643716454402, "dur":5859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":13, "ts":1678643716460344, "dur":46517, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678643716403208, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678643716403208, "dur":5367, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678643716408579, "dur":981, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1678643716409563, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678643716414797, "dur":9351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1678643716424206, "dur":871, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro.exe" }}
+,{ "pid":12345, "tid":14, "ts":1678643716425079, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678643716425082, "dur":2874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro.exe" }}
+,{ "pid":12345, "tid":14, "ts":1678643716428022, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678643716428223, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678643716428227, "dur":3998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678643716432348, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678643716432610, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678643716432615, "dur":2543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678643716435232, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678643716435467, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678643716435473, "dur":3520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678643716439038, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678643716439195, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678643716439200, "dur":3937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678643716443197, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678643716443408, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678643716443414, "dur":2686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678643716446169, "dur":265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678643716446453, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678643716446460, "dur":3731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678643716450256, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678643716450464, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678643716450470, "dur":3013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678643716453586, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678643716453790, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678643716453796, "dur":3760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1678643716457646, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/level0" }}
+,{ "pid":12345, "tid":14, "ts":1678643716457801, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1678643716457808, "dur":3617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/level0" }}
+,{ "pid":12345, "tid":14, "ts":1678643716461514, "dur":45324, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678643716403242, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678643716403243, "dur":5320, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678643716408567, "dur":12538, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1678643716421136, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678643716421152, "dur":4349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1678643716425587, "dur":236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":15, "ts":1678643716425825, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678643716426888, "dur":9654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":15, "ts":1678643716436614, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678643716436816, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678643716436822, "dur":3429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678643716440294, "dur":487, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678643716440783, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678643716440788, "dur":3551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678643716444411, "dur":288, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678643716444702, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678643716444708, "dur":2947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678643716447712, "dur":270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678643716447984, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678643716447989, "dur":3768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678643716451816, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678643716451988, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678643716451992, "dur":2358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1678643716454414, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1678643716454486, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1678643716454491, "dur":44775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1678643716499313, "dur":7367, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678643716403351, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678643716403351, "dur":5198, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678643716408552, "dur":698, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1678643716409252, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678643716414046, "dur":10041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1678643716424194, "dur":10889, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":16, "ts":1678643716435157, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678643716435163, "dur":2749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":16, "ts":1678643716437996, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678643716438200, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678643716438204, "dur":3820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678643716442087, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678643716442321, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678643716442327, "dur":3013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678643716445431, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678643716445674, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678643716445679, "dur":3141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678643716448878, "dur":260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678643716449140, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678643716449144, "dur":3413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678643716452621, "dur":566, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678643716453191, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678643716453197, "dur":2970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":16, "ts":1678643716456263, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1678643716456370, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1678643716456377, "dur":35278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/bnvsa/Desktop/GAME-DEV/GAME-SPACE/Space-runner-pro_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1678643716491704, "dur":15015, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678643716511772, "dur":1609, "ph":"X", "name": "ProfilerWriteOutput" }
+,
