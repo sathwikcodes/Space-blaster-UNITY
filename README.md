@@ -31,11 +31,9 @@ This project was developed as a learning exercise to explore game development co
 
 ## Credits
 
-- Game developed by [Your Name or Team Name]
-- Assets used:
-- [Asset Name 1](link)
-- [Asset Name 2](link)
-- ...
+- Game developed by [Sathwik Batta]
+- Screenshots:
+- 
 
 ## Feedback and Contributions
 
